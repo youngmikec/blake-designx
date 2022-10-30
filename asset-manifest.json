@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/blake-designx/static/css/main.06d71d1d.css",
+    "main.js": "/blake-designx/static/js/main.cb52aa0c.js",
+    "static/js/787.8e2b7ff6.chunk.js": "/blake-designx/static/js/787.8e2b7ff6.chunk.js",
+    "static/media/acheivement.png": "/blake-designx/static/media/acheivement.a2ac16796554664597a5.png",
+    "static/media/banner1.png": "/blake-designx/static/media/banner1.34c90679c3485df897f6.png",
+    "static/media/customImage.png": "/blake-designx/static/media/customImage.9d6a08bc57bc04a9dda8.png",
+    "static/media/backgroundImage1.png": "/blake-designx/static/media/backgroundImage1.c686916e5fcecb924b4e.png",
+    "static/media/jotter.png": "/blake-designx/static/media/jotter.3760c56b146e858fb893.png",
+    "static/media/backgroundImage2.png": "/blake-designx/static/media/backgroundImage2.8b8692b56babab4840d7.png",
+    "static/media/tech-display.png": "/blake-designx/static/media/tech-display.c76575abd4e17ade2ef7.png",
+    "static/media/flyer.png": "/blake-designx/static/media/flyer.c13e6be8a8fed1e966a4.png",
+    "static/media/form-background.png": "/blake-designx/static/media/form-background.3df5b89be90289c2c5c3.png",
+    "static/media/footer-image.png": "/blake-designx/static/media/footer-image.8de4f6897cb79ab63699.png",
+    "static/media/monitor.png": "/blake-designx/static/media/monitor.2e640e21f8c3aca0c659.png",
+    "static/media/book.png": "/blake-designx/static/media/book.183a569b6ecde2e7fee5.png",
+    "static/media/princess.png": "/blake-designx/static/media/princess.0e9316814080db7ce3c2.png",
+    "static/media/stanley.png": "/blake-designx/static/media/stanley.80f20546e64fe104ea52.png",
+    "static/media/arith.png": "/blake-designx/static/media/arith.4ad9b4b40b018c1239f6.png",
+    "static/media/johnson.png": "/blake-designx/static/media/johnson.dc96051bdb9d963cc863.png",
+    "static/media/circle.png": "/blake-designx/static/media/circle.176b3012a1662564aaa0.png",
+    "index.html": "/blake-designx/index.html",
+    "main.06d71d1d.css.map": "/blake-designx/static/css/main.06d71d1d.css.map",
+    "main.cb52aa0c.js.map": "/blake-designx/static/js/main.cb52aa0c.js.map",
+    "787.8e2b7ff6.chunk.js.map": "/blake-designx/static/js/787.8e2b7ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d71d1d.css",
+    "static/js/main.cb52aa0c.js"
+  ]
+}
