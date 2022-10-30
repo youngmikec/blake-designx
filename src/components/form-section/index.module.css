@@ -1,0 +1,10 @@
+.wrapper {
+    background: url('../../assets/images/form-background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: max-content;
+    width: 100%;
+    background-color: #021B79;
+}
+

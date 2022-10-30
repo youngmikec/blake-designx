@@ -1,0 +1,21 @@
+.wrapper {
+    background: linear-gradient(180deg, #021B79 0%, #2563EB 100%);
+    color: #ffffff;
+    min-height: 2rem;
+    max-height: max-content;
+    position: absolute;
+    min-width: 25%;
+    margin: 0 auto;
+    bottom: 2rem;
+    text-align: center;
+    padding: 2rem 0.5rem;
+}
+
+@media screen and (max-width: 771px) {
+    .wrapper{
+        position: inherit;
+        top: 2rem;
+        /* min-height: 620px; */
+        min-height: max-content;
+    }
+}

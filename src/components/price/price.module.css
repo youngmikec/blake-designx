@@ -1,0 +1,32 @@
+.priceWrapper {
+    width: 100%;
+    height: 870px;
+    position: relative;
+    color: #111010;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.divider {
+    width: 80px;
+    height: 5px;
+    border-bottom: 4px solid #021B79;
+    margin: 1rem auto;
+} 
+
+  @media screen and (max-width: 771px) {
+    .priceWrapper {
+        width: 100%;
+        height: max-content;
+        position: relative;
+        color: #111010;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 27px;
+    }
+}

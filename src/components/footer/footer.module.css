@@ -1,0 +1,31 @@
+.footerWrapper {
+    background: url('../../assets/images/footer-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 420px;
+}
+
+.overlay {
+    background: #e6edfcd8;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media screen and (max-width: 770px) {
+    .footerWrapper {
+        background: url('../../assets/images/footer-image.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        width: 100%;
+        height: max-content;
+    }
+     
+}

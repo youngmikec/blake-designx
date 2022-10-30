@@ -1,0 +1,43 @@
+.button {
+    height: max-content;
+    border-radius: 30px;
+    padding: .7rem 1rem;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.light {
+    background: #ffffff;
+    color: #021B79;
+}
+
+.dark {
+    background: #021B79;
+    color: #ffffff;
+}
+
+.sm {
+    width: 100px;
+}
+
+.md {
+    width: 130px;
+}
+
+.lg {
+    width: 160px;
+}
+
+.xlg{
+    width: 190px;
+}
+
+@media screen and (max-width: 770px) {
+    .button {
+        height: max-content;
+        border-radius: 30px;
+        padding: .8rem 1rem;
+        font-size: 22px;
+        font-weight: bold;
+    }
+}

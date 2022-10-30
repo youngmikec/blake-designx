@@ -1,0 +1,44 @@
+.topbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #021B79;
+    width: 100%;
+    min-height: 30px;
+    max-height: 77px;
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: .5rem;
+    line-height: auto;
+}
+
+.icon {
+    height: .5rem;
+    width: .5rem;
+}
+
+@media screen and (min-width: 1000px) {
+    .topbar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: #021B79;
+        width: 100%;
+        min-height: 30px;
+        max-height: 77px;
+        color: white;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: .9rem;
+        line-height: auto;
+    }
+    .icon {
+        height: .7rem;
+        width: .7rem;
+    }
+}

@@ -1,0 +1,37 @@
+.card {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.1);
+    padding: 1.1rem 1.5rem;
+    margin: 1rem auto;
+    max-width: 35rem;
+    min-height: 10rem;
+}
+
+.cardTitle {
+    color: #021B79;
+    font-size: 1.15rem;
+    line-height: 20px;
+}
+
+.cardSubTitle {
+    color: rgba(2, 27, 121, 0.5);
+    font-size: 15px;
+}
+
+.cardBody {
+    margin: 1.5rem auto;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    /* or 200% */
+    text-align: justify;
+    color: #000000;
+}
+
+/* @media screen and (max-width: 770px) {
+    .cardTitle {
+        color: #021B79;
+        font-size: 20px;
+        line-height: 20px;
+    }
+} */

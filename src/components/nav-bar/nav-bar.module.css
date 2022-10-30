@@ -1,0 +1,55 @@
+.navbar {
+    background-color: #fff;
+    width: 100%;
+    height: max-content;
+    color: #111010;
+    font-family: 'Poppins';
+    font-weight: normal;
+    margin-top: -17px;
+    padding: 1rem 0;
+}
+
+.logoText {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: -15px;
+}
+
+.icon {
+    height: 22px;
+    width: 22px;
+}
+
+.navButton {
+    height: 29px;
+    width: 89px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0.2rem 0.4rem;
+}
+
+.active {
+    color: #fff;
+    background: #021B79;
+}
+
+@media screen and (max-width: 648px) {
+    .navButton {
+        height: 29px;
+        width: 89px;
+        border-radius: 30px;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 20px;
+        padding: 0.2rem 0.3rem;
+    } 
+    .logoText {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 15px;
+        margin-top: -15px;
+    }
+}
